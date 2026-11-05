@@ -141,6 +141,8 @@ window.addEventListener("scroll", () => {
 * تتحول أقسام Grid إلى عمود واحد.
 * يتم تكبير صور الـ Hero للحفاظ على التأثير البصري.
 
+![responsive](image.png)
+
 ## 🚀 تشغيل المشروع
 
 لا يحتاج المشروع إلى إعدادات معقدة.
@@ -150,4 +152,7 @@ window.addEventListener("scroll", () => {
 3. افتح `index.html` في المتصفح.
 
 يفضل استخدام **Live Server** أثناء التطوير للحصول على تجربة أفضل.
-# mada-alwuthainani-unit3
+
+### Live Link 
+
+[Live Link](https://github.com/mada-coding-challenge/mada-alwuthainani-unit3)
