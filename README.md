@@ -155,4 +155,4 @@ window.addEventListener("scroll", () => {
 
 ### Live Link 
 
-[Live Link](https://github.com/mada-coding-challenge/mada-alwuthainani-unit3)
+[Live Link](https://mada-coding-challenge.github.io/mada-alwuthainani-unit3/)
